@@ -1,4 +1,4 @@
-# Partials with Locals 
+# Partials with Locals
 
 ## Objectives
 1. Use the locals keyword
@@ -133,7 +133,7 @@ Information About the Post
 ```
 
 This code is much better.  We are being more explicit about our dependencies, reducing lines of code in our codebase, and reducing the scope of the author variable.
-Don't worry if you find the syntax for rendering a partial hard to remember –– it is.  You can always reference this guide or the Rails Guides.
+Don't worry if you find the sYnTaX for rendering a partial hard to remember –– it is.  You can always reference this guide or the Rails Guides.
 
 ## Resources
 * [RailsGuide: Partials](http://guides.rubyonrails.org/layouts_and_rendering.html#using-partials)
